@@ -1849,3 +1849,50 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.21-23.21.36:669][ 38]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.01.21-23.21.37:483][130]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
 [2025.01.21-23.21.38:102][198]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 522 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: ================================================
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Total job queries 11,644, among them cache hits 2 (0.02%), DDC hits 0 (0.00%), Duplicates 2,685 (23.06%)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Tracking 8,957 distinct input hashes that result in 8,465 distinct outputs (94.51%)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: RAM used: 6.35 MiB of 1.60 GiB budget. Usage: 0.39%
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Shaders Compiled: 8,957
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Jobs assigned 8,957, completed 8,957 (100%)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Average time worker was idle: 0.25 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Time job spent in pending queue: average 137.56 s, longest 285.18 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Job execution time: average 3.64 s, max 67.95 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Job life time (pending + execution): average 141.20 s, max 302.93
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Shader code size: average 14.304 KiB, min 1.16 KiB, max 330.049 KiB
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 361.12 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Jobs were issued in 969 batches (only local compilation was used), average 9.24 jobs/batch
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Average processing rate: 24.80 jobs/sec
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Total thread time: 3,354.13 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Total thread preprocess time: 92.163 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Percentage time preprocessing: 2.75%
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Effective parallelization: 9.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 12.59 sec, max 40.23 sec, min 0.78 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 10.33 sec, max 10.33 sec, min 10.33 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 5.57 sec, max 9.67 sec, min 1.47 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 5.33 sec, max 13.44 sec, min 1.90 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 5.24 sec, max 5.24 sec, min 5.24 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.07% of total time (compiled  454 times, average 0.82 sec, max 2.29 sec, min 0.61 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 10.81% of total time (compiled   68 times, average 5.33 sec, max 13.44 sec, min 1.90 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 10.13% of total time (compiled   27 times, average 12.59 sec, max 40.23 sec, min 0.78 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.47% of total time (compiled  260 times, average 1.22 sec, max 4.24 sec, min 0.00 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.79% of total time (compiled  480 times, average 0.33 sec, max 1.18 sec, min 0.16 sec)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: === Material stats ===
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Materials Translated:    130
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Material Translation Only: 0.03 s (45%)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.21-23.24.24:166][721]LogShaderCompilers: Display: ================================================
+[2025.01.21-23.27.14:646][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 357.650879
+[2025.01.21-23.27.15:647][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-23.27.15:647][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 358.317535, Update Interval: 344.422729
+[2025.01.21-23.33.02:349][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 705.354187
+[2025.01.21-23.33.03:349][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-23.33.03:349][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 706.020691, Update Interval: 336.970123
