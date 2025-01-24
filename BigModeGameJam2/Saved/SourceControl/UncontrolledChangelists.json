@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+<<<<<<< HEAD:BigModeGameJam2/BigModeGameJam2/Saved/SourceControl/UncontrolledChangelists.json
+				"C:/Users/jaihe/Desktop/New folder (2)/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/jaihe/Desktop/New folder (2)/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/47T4MTRUCAGN5U6GJUCYTR.uasset"
+=======
+				"C:/Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+>>>>>>> main:BigModeGameJam2/Saved/SourceControl/UncontrolledChangelists.json
+			]
+		}
+	]
+}
