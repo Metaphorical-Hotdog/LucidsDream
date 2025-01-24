@@ -1360,3 +1360,361 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.24-01.02.48:514][ 35]LogFab: Display: User logged in
 [2025.01.24-01.02.48:514][ 35]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.01.24-01.02.48:578][ 41]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-eLLM5mFxrU-I7W7dZgJkuQ-j80tFAJeG0i_3IPFZ-3RCg]
+[2025.01.24-01.04.41:603][812]LogDerivedDataCache: C:/Users/Victor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.24-01.08.42:366][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 357.384552
+[2025.01.24-01.08.43:366][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.08.43:366][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 358.051147, Update Interval: 351.164886
+[2025.01.24-01.14.37:748][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 712.760925
+[2025.01.24-01.14.38:748][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.14.38:748][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 713.427612, Update Interval: 314.894257
+[2025.01.24-01.18.03:252][581]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.24-01.18.45:837][981]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.01.24-01.18.50:722][421]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.24-01.18.50:735][422]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.01.24-01.18.57:468][192]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.24-01.18.57:468][192]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.01.24-01.18.57:521][192]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.24-01.18.58:049][192]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.01.24-01.18.58:050][192]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.01.24-01.18.58:313][192]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.01.24-01.18.58:665][195]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.01.24-01.19.07:386][877]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.01.24-01.20.00:308][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1035.320557
+[2025.01.24-01.20.00:373][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.20.00:373][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1035.378174, Update Interval: 339.733276
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: ================================================
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Total job queries 167, among them cache hits 9 (5.39%), DDC hits 152 (91.02%), Duplicates 2 (1.20%)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 144 distinct outputs (92.31%)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: RAM used: 117.71 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 1.13 s
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 1.17
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Shader code size: average 6.861 KiB, min 4.883 KiB, max 8.039 KiB
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.18 s
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Average processing rate: 3.38 jobs/sec
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Total thread time: 0.885 s
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Total thread preprocess time: 2.15 s
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Percentage time preprocessing: 242.92%
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Effective parallelization: 0.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.83% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                                 FLumenCardPS - 23.86% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.67% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.64% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display:                                                  FHitProxyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: === Material stats ===
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Materials Translated:    131
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Material Translation Only: 0.03 s (53%)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: Material Cache Hits: 27 (21%)
+[2025.01.24-01.20.48:108][872]LogShaderCompilers: Display: ================================================
+[2025.01.24-01.22.09:669][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.24-01.22.09:670][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.060
+[2025.01.24-01.22.09:671][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-01.22.09:672][496]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.01.24-01.22.09:737][496]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2025.01.24-01.22.09:746][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-01.22.09:746][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-01.22.09:755][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2025.01.24-01.22.09:755][496]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto1E3C087544AFE67F3F314AAB745F1D206.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.01.24-01.22.09:755][496]LogFileHelpers: Auto-saving content packages took 0.085
+[2025.01.24-01.25.55:505][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1390.511475
+[2025.01.24-01.25.55:596][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.25.55:596][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1390.595215, Update Interval: 348.026367
+[2025.01.24-01.32.10:592][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1765.597046
+[2025.01.24-01.32.10:675][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.32.10:675][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1765.672241, Update Interval: 315.632202
+[2025.01.24-01.36.34:726][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.24-01.36.34:727][805]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2025.01.24-01.36.34:727][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-01.36.34:764][805]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-01.36.34:764][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-01.36.34:771][805]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2025.01.24-01.36.34:771][805]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto24F231EF54B092E78C568EE8DF0917394.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2025.01.24-01.36.34:773][805]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.01.24-01.38.17:732][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2132.731689
+[2025.01.24-01.38.17:807][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.38.17:807][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2132.798096, Update Interval: 353.001495
+[2025.01.24-01.44.42:832][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2517.830322
+[2025.01.24-01.44.42:898][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.44.42:898][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2517.888184, Update Interval: 338.365417
+[2025.01.24-01.45.26:564][602]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Move.IA_Move
+[2025.01.24-01.46.29:075][744]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UBlueprintCameraPoseFunctionLibrary::SetTransform' [Element not found.]
+[2025.01.24-01.46.59:732][323]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UBlueprintCameraPoseFunctionLibrary::SetTransform' [The specified module could not be found.]
+[2025.01.24-01.47.47:742][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.24-01.47.47:744][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2025.01.24-01.47.47:744][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-01.47.47:788][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-01.47.47:788][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-01.47.47:795][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2025.01.24-01.47.47:795][933]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto3714BA5F94151FEEB0657ED9036F837C2.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.01.24-01.47.47:796][933]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.01.24-01.51.06:251][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2901.240479
+[2025.01.24-01.51.06:317][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.51.06:317][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2901.299072, Update Interval: 308.977936
+[2025.01.24-01.56.51:638][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3246.635742
+[2025.01.24-01.56.51:722][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-01.56.51:722][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3246.710693, Update Interval: 313.213287
+[2025.01.24-01.59.27:713][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.24-01.59.27:714][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2025.01.24-01.59.27:714][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-01.59.27:750][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-01.59.27:750][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-01.59.27:757][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2025.01.24-01.59.27:757][750]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto40589B0684CF41D165ED699B6728F54C3.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2025.01.24-01.59.27:758][750]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.01.24-02.03.04:646][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3619.641113
+[2025.01.24-02.03.05:647][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.03.05:647][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3620.308350, Update Interval: 319.338348
+[2025.01.24-02.04.41:659][705]LogDerivedDataCache: C:/Users/Victor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.24-02.09.18:372][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3993.357422
+[2025.01.24-02.09.19:402][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.09.19:402][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3994.024170, Update Interval: 353.151642
+[2025.01.24-02.09.28:075][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.24-02.09.28:077][564]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2025.01.24-02.09.28:077][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-02.09.28:077][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-02.09.28:084][564]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2025.01.24-02.09.28:084][564]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto529ABA5E14FB45245D5A694BCB2806F18.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2025.01.24-02.09.28:086][564]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.01.24-02.12.02:131][201]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.01.24-02.15.52:700][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4387.695312
+[2025.01.24-02.15.53:701][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.15.53:701][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4388.367188, Update Interval: 343.888062
+[2025.01.24-02.15.59:645][167]LogSlate: External Image Picker: DecompressImage failed
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: ================================================
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: Total job queries 185, among them cache hits 9 (4.86%), DDC hits 152 (82.16%), Duplicates 2 (1.08%)
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 156 distinct outputs (89.66%)
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: RAM used: 122.32 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: Shaders Compiled: 22
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2025.01.24-02.17.48:720][963]LogShaderCompilers: Display: Average time worker was idle: 1142.81 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 1.30 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 1.78 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 2.24
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Shader code size: average 7.522 KiB, min 3.949 KiB, max 12.691 KiB
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.18 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Average processing rate: 5.26 jobs/sec
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Total thread time: 7.938 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Total thread preprocess time: 2.41 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Percentage time preprocessing: 30.37%
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Effective parallelization: 1.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.85 sec, max 0.85 sec, min 0.85 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.64 sec, max 0.73 sec, min 0.56 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.34 sec, max 0.41 sec, min 0.28 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.09% of total time (compiled    4 times, average 0.34 sec, max 0.41 sec, min 0.28 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.22% of total time (compiled    2 times, average 0.64 sec, max 0.73 sec, min 0.56 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.39% of total time (compiled    4 times, average 0.23 sec, max 0.26 sec, min 0.19 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.74% of total time (compiled    1 times, average 0.85 sec, max 0.85 sec, min 0.85 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.88% of total time (compiled    3 times, average 0.26 sec, max 0.29 sec, min 0.21 sec)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: === Material stats ===
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Materials Translated:    131
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Material Translation Only: 0.03 s (53%)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: Material Cache Hits: 27 (21%)
+[2025.01.24-02.17.48:722][963]LogShaderCompilers: Display: ================================================
+[2025.01.24-02.18.07:729][823]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.24-02.18.07:762][823]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.24-02.21.34:870][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.01.24-02.21.34:872][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2025.01.24-02.21.34:872][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-02.21.34:917][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-02.21.34:917][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-02.21.34:925][153]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2025.01.24-02.21.34:925][153]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto61E7DD29240D4B6E46B7DC0A2950A1A2C.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2025.01.24-02.21.34:926][153]LogFileHelpers: Auto-saving content packages took 0.055
+[2025.01.24-02.22.16:772][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4771.791504
+[2025.01.24-02.22.17:771][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.22.17:771][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4772.458496, Update Interval: 303.687866
+[2025.01.24-02.27.59:469][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5114.547852
+[2025.01.24-02.28.00:469][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.28.00:469][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5115.214844, Update Interval: 317.432159
+[2025.01.24-02.31.35:535][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.24-02.31.35:538][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2025.01.24-02.31.35:539][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-02.31.35:573][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-02.31.35:573][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-02.31.35:581][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2025.01.24-02.31.35:581][161]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto7B53FA639485CB701144A94959ACB2530.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2025.01.24-02.31.35:582][161]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.01.24-02.34.06:176][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5481.317383
+[2025.01.24-02.34.07:176][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.34.07:176][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5481.984375, Update Interval: 345.017853
+[2025.01.24-02.40.41:558][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5876.769531
+[2025.01.24-02.40.42:559][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.40.42:559][802]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5877.437012, Update Interval: 304.092529
+[2025.01.24-02.45.44:938][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.24-02.45.44:940][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2025.01.24-02.45.44:940][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-02.45.44:940][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-02.45.44:948][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2025.01.24-02.45.44:948][479]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto87B21E9C04539A9BFCCDF17948CA179CA.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2025.01.24-02.45.44:948][479]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.01.24-02.46.23:252][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6218.477051
+[2025.01.24-02.46.24:253][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.46.24:253][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6219.143555, Update Interval: 355.836060
+[2025.01.24-02.53.03:423][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6618.629395
+[2025.01.24-02.53.04:098][139]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.53.04:098][139]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6619.295898, Update Interval: 306.729340
+[2025.01.24-02.54.03:364][904]LogSlate: External Image Picker: DecompressImage failed
+[2025.01.24-02.55.45:486][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.24-02.55.45:488][132]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2025.01.24-02.55.45:488][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-02.55.45:591][132]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-02.55.45:591][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-02.55.45:599][132]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2025.01.24-02.55.45:599][132]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto9374902F64474DB67F92C86AFC3F6CD54.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2025.01.24-02.55.45:600][132]LogFileHelpers: Auto-saving content packages took 0.112
+[2025.01.24-02.59.09:205][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6984.416992
+[2025.01.24-02.59.09:305][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-02.59.09:305][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6984.501465, Update Interval: 313.224274
+[2025.01.24-03.01.08:964][870]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 8d8...15a
+[2025.01.24-03.01.08:964][870]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.552e+07
+[2025.01.24-03.01.09:091][879]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 8d8...15a Access[Expires: 2025.01.24-05.01.09 Remaining: 7200.15] Refresh[Expires: 2025-07-22T19:20:30.043Z Remaining: 15524361.04] State: Valid
+[2025.01.24-03.01.17:892][ 94]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.24-03.01.17:924][ 94]LogSlate: Window 'Project Settings' being destroyed
+[2025.01.24-03.04.41:781][858]LogDerivedDataCache: C:/Users/Victor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.24-03.05.20:316][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7355.514648
+[2025.01.24-03.05.20:375][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-03.05.20:375][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7355.563965, Update Interval: 329.781189
+[2025.01.24-03.06.35:924][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.24-03.06.35:926][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2025.01.24-03.06.35:927][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-03.06.36:021][901]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.24-03.06.36:021][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-03.06.36:029][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2025.01.24-03.06.36:029][901]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter_Auto0843C343E44F77746FB396E9FC05478EA.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2025.01.24-03.06.36:030][901]LogFileHelpers: Auto-saving content packages took 0.104
+[2025.01.24-03.11.40:937][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7736.125000
+[2025.01.24-03.11.41:939][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-03.11.41:939][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7736.791504, Update Interval: 333.480042
+[2025.01.24-03.17.51:937][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8107.116699
+[2025.01.24-03.17.52:937][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-03.17.52:937][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8107.783203, Update Interval: 331.238739
+[2025.01.24-03.24.10:350][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8485.355469
+[2025.01.24-03.24.10:426][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-03.24.10:426][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8485.422852, Update Interval: 354.422424
+[2025.01.24-03.30.10:880][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-03.30.10:916][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.24-03.30.10:916][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.24-03.30.10:924][584]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.24-03.30.10:925][584]LogSavePackage: Moving '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Saved/BP_ThirdPersonCharacter013F8ECD4994272B69E9FC85A501B245.tmp' to '../../../../../../Users/Victor/OneDrive/Documents/Unreal Projects/BigModeGameJam2/BigModeGameJam2/BigModeGameJam2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.24-03.30.10:933][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.763 ms
+[2025.01.24-03.30.10:967][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-03.30.10:967][584]LogContentValidation: Enabled validators:
+[2025.01.24-03.30.10:967][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-03.30.10:967][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-03.30.10:967][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-03.30.10:967][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-03.30.10:967][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-03.30.10:967][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-03.30.10:968][584]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.24-03.30.12:376][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.24-03.30.12:405][727]LogStall: Shutdown...
+[2025.01.24-03.30.12:405][727]LogStall: Shutdown complete.
+[2025.01.24-03.30.12:465][727]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-03.30.12:465][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-03.30.12:525][727]LogSlate: Window 'BigModeGameJam2 - Unreal Editor' being destroyed
+[2025.01.24-03.30.12:527][727]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.24-03.30.12:675][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.24-03.30.12:680][727]Cmd: QUIT_EDITOR
+[2025.01.24-03.30.12:680][728]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.24-03.30.12:684][728]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.24-03.30.12:684][728]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.24-03.30.12:684][728]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.24-03.30.12:685][728]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-03.30.12:685][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-03.30.12:685][728]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.01.24-03.30.12:692][728]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.24-03.30.12:692][728]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.24-03.30.12:701][728]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-03.30.12:701][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-03.30.12:701][728]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-03.30.12:701][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-03.30.12:703][728]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-03.30.12:703][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-03.30.12:706][728]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-03.30.12:706][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-03.30.12:709][728]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.24-03.30.12:713][728]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.24-03.30.12:713][728]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.24-03.30.12:713][728]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.24-03.30.12:714][728]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.24-03.30.12:714][728]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.24-03.30.12:714][728]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.01.24-03.30.12:714][728]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.24-03.30.12:715][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.24-03.30.12:717][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.24-03.30.12:726][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.24-03.30.12:726][728]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.24-03.30.12:728][728]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.24-03.30.12:728][728]LogExit: Preparing to exit.
+[2025.01.24-03.30.12:780][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.24-03.30.12:781][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:781][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:782][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:783][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:784][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:784][728]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.12:784][728]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.24-03.30.13:404][728]LogEditorDataStorage: Deinitializing
+[2025.01.24-03.30.13:533][728]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.24-03.30.13:556][728]LogExit: Editor shut down
+[2025.01.24-03.30.13:562][728]LogExit: Transaction tracking system shut down
+[2025.01.24-03.30.13:767][728]LogExit: Object subsystem successfully closed.
+[2025.01.24-03.30.13:874][728]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.24-03.30.14:804][728]LogMemoryProfiler: Shutdown
+[2025.01.24-03.30.14:804][728]LogNetworkingProfiler: Shutdown
+[2025.01.24-03.30.14:804][728]LoadingProfiler: Shutdown
+[2025.01.24-03.30.14:804][728]LogTimingProfiler: Shutdown
+[2025.01.24-03.30.15:187][728]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.24-03.30.15:195][728]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.24-03.30.15:195][728]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.24-03.30.15:195][728]RenderDocPlugin: plugin has been unloaded.
+[2025.01.24-03.30.15:230][728]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.24-03.30.15:231][728]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F31D13C-4DE5-5106-AA52-C9838720E440%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=c8d1f2f6499dba58b7b103989ac7e200%7C8d8138314c8143609aa367b7ad05415a%7Ca357bdc2-753f-40df-92d4-c62a7cf96d8e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.24-03.30.15:798][728]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.24-03.30.15:801][728]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.24-03.30.15:801][728]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.24-03.30.15:801][728]LogPakFile: Destroying PakPlatformFile
+[2025.01.24-03.30.16:012][728]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.24-03.30.16:086][728]LogExit: Exiting.
+[2025.01.24-03.30.16:125][728]Log file closed, 01/23/25 22:30:16
