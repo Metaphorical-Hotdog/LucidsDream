@@ -1347,4 +1347,3 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.24-15.45.07:691][  0]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 58.04 ms. Compile time 32.86 ms, link time 25.06 ms.
 [2025.01.24-15.45.07:772][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.01.24-15.45.07:774][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
-[2025.01.24-15.45.07:797][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
