@@ -128,6 +128,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "35EA5C3835CC83AF9605218D8E6A3C26DF2A7BC5",
+			"Assets": [
+				"/Game/Sky_Dungeon/materials/sky_materials/M_cloud"
+			]
+		},
+		{
 			"ShaderMapHash": "7DB3C63A217EECD88BD671D700A69BF2B8934D1E",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -311,6 +317,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7DF9DF7FDD6613868201BBBC6A05CB5C42EDE396",
+			"Assets": [
+				"/Game/Level/Materials/M_ToonShader"
+			]
+		},
+		{
 			"ShaderMapHash": "B5A0DA8173B641640E4A250C54F3D0830D319DBA",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -320,12 +332,6 @@
 			"ShaderMapHash": "EF737682B94EAE7E253307CBCDC97D21E9183578",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Unlit"
-			]
-		},
-		{
-			"ShaderMapHash": "EBADD2858ACB12212F864BE2F1391602360860BA",
-			"Assets": [
-				"/Game/Level/Special_Props/Cloud/1bit-monitor-glow-32x_Mat"
 			]
 		},
 		{
@@ -714,6 +720,12 @@
 			"ShaderMapHash": "0D2CA9EDB1FBF65D7CD68F1794F85DDB51FC0F44",
 			"Assets": [
 				"/Game/VFX/VFX_Meshes/M_Star"
+			]
+		},
+		{
+			"ShaderMapHash": "149203EFF44DB12755866E165B23493E776668A4",
+			"Assets": [
+				"/Game/Sky_Dungeon/materials/props_materials/M_statue"
 			]
 		},
 		{

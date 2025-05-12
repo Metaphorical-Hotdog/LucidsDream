@@ -38,6 +38,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9407220944DEAFC81AD0F1FB8397E7533C18F4E8",
+			"Assets": [
+				"/Game/Level/Materials/M_ToonShader"
+			]
+		},
+		{
 			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
@@ -240,6 +246,12 @@
 			"ShaderMapHash": "3335EF50D3D9460AAB5D2D01CDF062DF81024F01",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AAD30251FA8CEA4F8B1C20A85FABFA171AE198CD",
+			"Assets": [
+				"/Game/Sky_Dungeon/materials/sky_materials/M_cloud"
 			]
 		},
 		{
@@ -455,12 +467,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7061969F50C39DE661F4D6B46A9D3A23F1E8E7C5",
-			"Assets": [
-				"/Game/Level/Special_Props/Cloud/1bit-monitor-glow-32x_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
@@ -629,6 +635,12 @@
 			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "3516B3CB037801F6184062E9B8BEB17C4BEE5AEC",
+			"Assets": [
+				"/Game/Sky_Dungeon/materials/props_materials/M_statue"
 			]
 		},
 		{
